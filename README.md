@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrochristinelli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/ogw/ADea4I5Se1iA-Feb0xOufwMWYhdtZTQ8jvEn04MAXl7I=s83-c-mo">
 </div>
   
   ##
