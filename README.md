@@ -5,7 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrochristinelli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/ogw/ADea4I5Se1iA-Feb0xOufwMWYhdtZTQ8jvEn04MAXl7I=s83-c-mo">
+  <a href="https://open.spotify.com/artist/2DyIrb5d3kdjsnWV6eYteg?si=CquOv5KkQdOAqe8LK9MT9w">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/ogw/ADea4I5Se1iA-Feb0xOufwMWYhdtZTQ8jvEn04MAXl7I=s83-c-mo">
 </div>
   
   ##
